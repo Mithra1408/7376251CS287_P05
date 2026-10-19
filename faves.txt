@@ -1,0 +1,12 @@
+MOVIE|Interstellar|Christopher Nolan|2014|9
+MOVIE|Jai Bhim|T. J. Gnanavel|2021|9
+MOVIE|Vikram Vedha|Gayatri and Pushkar|2017|8
+MOVIE|Inception|Christopher Nolan|2010|10
+SONG|Shape of You|Ed Sheeran|2017|8
+SONG|Vaseegara|Harris Jayaraj|2001|9
+SONG|Blinding Lights|The Weeknd|2019|9
+BOOK|The Alchemist|Paulo Coelho|1988|8
+BOOK|Wings of Fire|A. P. J. Abdul Kalam|1999|9
+BOOK|Harry Potter|J. K. Rowling|1997|10
+GAME|Minecraft|Mojang Studios|2011|9
+GAME|Stardew Valley|ConcernedApe|2016|8
