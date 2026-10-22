@@ -10,3 +10,4 @@ BOOK|Wings of Fire|A. P. J. Abdul Kalam|1999|9
 BOOK|Harry Potter|J. K. Rowling|1997|10
 GAME|Minecraft|Mojang Studios|2011|9
 GAME|Stardew Valley|ConcernedApe|2016|8
+MOVIE|kana|sk|2017|8

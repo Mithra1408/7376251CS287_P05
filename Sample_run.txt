@@ -13,3 +13,38 @@ Menu:
 8. Delete favourite
 0. Save and exit
 
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
+Choose: 1
+
+--- ADD FAVOURITE ---
+1. Movie  2. Song  3. Book  4. Game
+Choose type: 1
+Title: kana
+Creator: sk
+Year: 2017
+Rating (1-10): 8
+Favourite added.
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
+Choose: 0
+Data saved. Goodbye!
+mithra1408@MITHRAs-MacBook 7376251CS287_P05 % 
