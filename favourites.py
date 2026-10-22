@@ -113,25 +113,6 @@ def filter_favourites(favourites):
     show_favourites(found_favourites)
 
 
-def show_top_five(favourites):
-    chosen_type = choose_type()
-    matching_favourites = []
-    for favourite in favourites:
-        if favourite[0] == chosen_type:
-            matching_favourites.append(favourite)
-    matching_favourites = sorted(
-        matching_favourites,
-        key=lambda favourite: (favourite[4], favourite[3]),
-        reverse=True
-    )
-    print("\nTOP 5", chosen_type)
-    print("Rank | Title | Year | Rating")
-    if len(matching_favourites) == 0:
-        print("No items of this type.")
-        return
-    for number in range(min(5, len(matching_favourites))):
-        favourite = matching_favourites[number]
-        print(number + 1, "|", favourite[1], "|", favourite[3], "|", favourite[4])
 
 
 def show_statistics(favourites):
@@ -191,10 +172,9 @@ def main():
         print("2. View all favourites")
         print("3. Search title")
         print("4. Filter by type")
-        print("5. Top 5 by rating")
-        print("6. Statistics")
-        print("7. Edit rating")
-        print("8. Delete favourite")
+        print("5. Statistics")
+        print("6. Edit rating")
+        print("7. Delete favourite")
         print("0. Save and exit")
         choice = get_number("Choose: ", 0, 8)
         if choice == 1:
@@ -206,12 +186,10 @@ def main():
         elif choice == 4:
             filter_favourites(favourites)
         elif choice == 5:
-            show_top_five(favourites)
-        elif choice == 6:
             show_statistics(favourites)
-        elif choice == 7:
+        elif choice == 6:
             edit_rating(favourites)
-        elif choice == 8:
+        elif choice == 7:
             delete_favourite(favourites)
         else:
             save_favourites(favourites)
