@@ -45,6 +45,142 @@ Favourite added.
 7. Edit rating
 8. Delete favourite
 0. Save and exit
+Choose: 2
+
+No. Type | Title | Creator | Year | Rating
+1 MOVIE | Interstellar | Christopher Nolan | 2014 | 9
+2 MOVIE | Jai Bhim | T. J. Gnanavel | 2021 | 9
+3 MOVIE | Vikram Vedha | Gayatri and Pushkar | 2017 | 8
+4 MOVIE | Inception | Christopher Nolan | 2010 | 10
+5 SONG | Shape of You | Ed Sheeran | 2017 | 8
+6 SONG | Vaseegara | Harris Jayaraj | 2001 | 9
+7 SONG | Blinding Lights | The Weeknd | 2019 | 9
+8 BOOK | The Alchemist | Paulo Coelho | 1988 | 8
+9 BOOK | Wings of Fire | A. P. J. Abdul Kalam | 1999 | 9
+10 BOOK | Harry Potter | J. K. Rowling | 1997 | 10
+11 GAME | Minecraft | Mojang Studios | 2011 | 9
+12 GAME | Stardew Valley | ConcernedApe | 2016 | 8
+13 MOVIE | kana | sk | 2017 | 8
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
+Choose: 3
+Enter title or part of title: Jai bhim
+
+No. Type | Title | Creator | Year | Rating
+1 MOVIE | Jai Bhim | T. J. Gnanavel | 2021 | 9
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
+Choose: 4
+1. Movie  2. Song  3. Book  4. Game
+Choose type: song
+Please enter a whole number.
+Choose type: 2
+
+No. Type | Title | Creator | Year | Rating
+1 SONG | Shape of You | Ed Sheeran | 2017 | 8
+2 SONG | Vaseegara | Harris Jayaraj | 2001 | 9
+3 SONG | Blinding Lights | The Weeknd | 2019 | 9
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
+Choose: 5
+1. Movie  2. Song  3. Book  4. Game
+Choose type: 1
+
+TOP 5 MOVIE
+Rank | Title | Year | Rating
+1 | Inception | 2010 | 10
+2 | Jai Bhim | 2021 | 9
+3 | Interstellar | 2014 | 9
+4 | Vikram Vedha | 2017 | 8
+5 | kana | 2017 | 8
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
+Choose: 6
+
+Type | Number of items | Average rating
+MOVIE | 5 | 8.8
+SONG | 3 | 8.7
+BOOK | 3 | 9.0
+GAME | 2 | 8.5
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
+Choose: 7
+
+No. Type | Title | Creator | Year | Rating
+1 MOVIE | Interstellar | Christopher Nolan | 2014 | 9
+2 MOVIE | Jai Bhim | T. J. Gnanavel | 2021 | 9
+3 MOVIE | Vikram Vedha | Gayatri and Pushkar | 2017 | 8
+4 MOVIE | Inception | Christopher Nolan | 2010 | 10
+5 SONG | Shape of You | Ed Sheeran | 2017 | 8
+6 SONG | Vaseegara | Harris Jayaraj | 2001 | 9
+7 SONG | Blinding Lights | The Weeknd | 2019 | 9
+8 BOOK | The Alchemist | Paulo Coelho | 1988 | 8
+9 BOOK | Wings of Fire | A. P. J. Abdul Kalam | 1999 | 9
+10 BOOK | Harry Potter | J. K. Rowling | 1997 | 10
+11 GAME | Minecraft | Mojang Studios | 2011 | 9
+12 GAME | Stardew Valley | ConcernedApe | 2016 | 8
+13 MOVIE | kana | sk | 2017 | 8
+Enter exact title: shape of you
+1. Movie  2. Song  3. Book  4. Game
+Choose type: 2
+New rating (1-10): 9
+Rating updated.
+
+--- FAVOURITES MENU ---
+1. Add favourite
+2. View all favourites
+3. Search title
+4. Filter by type
+5. Top 5 by rating
+6. Statistics
+7. Edit rating
+8. Delete favourite
+0. Save and exit
 Choose: 0
 Data saved. Goodbye!
 mithra1408@MITHRAs-MacBook 7376251CS287_P05 % 
